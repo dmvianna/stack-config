@@ -20,6 +20,8 @@ templates:
 # to see the current sequence.
 # stack-colors: STYLES
 
+recommend-stack-upgrade: false
+
 nix:
   enable: true
   packages: [zlib, openssl]
